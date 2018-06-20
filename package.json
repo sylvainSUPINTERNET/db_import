@@ -1,0 +1,21 @@
+{
+  "name": "db_import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.258.1",
+    "chalk": "^2.4.1",
+    "extract-zip": "^1.6.7",
+    "figlet": "^1.2.0",
+    "inquirer": "^6.0.0",
+    "lodash": "^4.17.10",
+    "node-emoji": "^1.8.1",
+    "sleep": "^5.1.1"
+  }
+}
